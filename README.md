@@ -32,8 +32,6 @@
 - TypeScript
 - HTML5
 - CSS3
-- Cisco Packet Tracer
-
 ---
 
 ## ⭐ Support
