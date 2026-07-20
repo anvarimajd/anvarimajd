@@ -1,13 +1,9 @@
-# 🚀 My Projects
+# 🚀 Projects
 
 <p align="center">
   <a href="YOUR_VIDEO_LINK">
     <img src="assets/thumbnail.png" alt="Project Demo" width="900">
   </a>
-</p>
-
-<p align="center">
-  <b>🎥 روی تصویر کلیک کنید تا ویدیوی معرفی پروژه‌ها را مشاهده کنید.</b>
 </p>
 
 ---
@@ -16,11 +12,15 @@
 
 | # | Project | Description | GitHub |
 |:-:|---------|-------------|:------:|
-| 1 | BMI App | BMI Calculator built with React Native | [🔗](https://github.com/USERNAME/BMI-App) |
-| 2 | Music Player | Music Player using Expo | [🔗](https://github.com/USERNAME/Music-Player) |
+| 1 | BMI App | Body Mass Index Calculator built with React Native | [🔗](https://github.com/USERNAME/BMI-App) |
+| 2 | Music Player | Music Player built with Expo & React Native | [🔗](https://github.com/USERNAME/Music-Player) |
 | 3 | Weather App | Weather Forecast Application | [🔗](https://github.com/USERNAME/Weather-App) |
-| 4 | Restaurant App | Restaurant UI Application | [🔗](https://github.com/USERNAME/Restaurant-App) |
-| 5 | Shop App | Shopping Application | [🔗](https://github.com/USERNAME/Shop-App) |
+| 4 | Restaurant App | Restaurant Mobile Application | [🔗](https://github.com/USERNAME/Restaurant-App) |
+| 5 | Shop App | Shopping Mobile Application | [🔗](https://github.com/USERNAME/Shop-App) |
+| 6 | Hospital Network | Cisco Packet Tracer Hospital Network Project | [🔗](https://github.com/USERNAME/Hospital-Network) |
+| 7 | Link Page | Modern HTML Link Page | [🔗](https://github.com/USERNAME/Link-Page) |
+| 8 | ChatHub UI | Modern Chat UI Design | [🔗](https://github.com/USERNAME/ChatHub-UI) |
+| 9 | File Upload UI | Modern File Upload Interface | [🔗](https://github.com/USERNAME/File-Upload-UI) |
 
 ---
 
@@ -30,6 +30,12 @@
 - Expo
 - JavaScript
 - TypeScript
-- HTML
-- CSS
-- Tailwind CSS
+- HTML5
+- CSS3
+- Cisco Packet Tracer
+
+---
+
+## ⭐ Support
+
+If you like these projects, don't forget to **Star** the repositories! ⭐
