@@ -18,7 +18,7 @@
 | 4 | Restaurant App | Restaurant Mobile Application | [🔗](https://github.com/USERNAME/Restaurant-App) |
 | 5 | Shop App | Shopping Mobile Application | [🔗](https://github.com/USERNAME/Shop-App) |
 | 6 | Hospital Network | Cisco Packet Tracer Hospital Network Project | [🔗](https://github.com/USERNAME/Hospital-Network) |
-| 7 | Link Page | Modern HTML Link Page | [🔗](https://github.com/USERNAME/Link-Page) |
+| 7 | Link Page | Modern HTML Link Page | [🔗](https://github.com/USERNAME/Link-Page)       |
 | 8 | ChatHub UI | Modern Chat UI Design | [🔗](https://github.com/USERNAME/ChatHub-UI) |
 | 9 | File Upload UI | Modern File Upload Interface | [🔗](https://github.com/USERNAME/File-Upload-UI) |
 
