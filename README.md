@@ -20,7 +20,7 @@
 | 6 | Binary Game | Interactive Binary Number Learning Game | [🔗](https://github.com/anvarimajd/Binery_Game) | React Native, Expo, Game Logic | [🎬](#) |
 | 7 | Restaurant App | Restaurant Menu and Food Ordering | [🔗](https://github.com/anvarimajd/Restaurant-App) | React Native, Expo, UI Design | [🎬](#) |
 | 8 | Shop Beginner |  | [🔗](#) | Cisco Packet Tracer, VLAN, Routing, OSPF | [🎬](#) |
-| 9 | Shop Intermed... | Modern Personal Links Landing Page Website | [🔗](https://github.com/USERNAME/Link-Page) | HTML, CSS, JavaScript | [🎬](#) |
+| 9 | Shop Interm... | Modern Personal Links Landing Page Website | [🔗](https://github.com/USERNAME/Link-Page) | HTML, CSS, JavaScript | [🎬](#) |
 | 10 | Shop Advan... | Modern Chat Application Interface Design | [🔗](https://github.com/USERNAME/ChatHub-UI) | React Native, UI/UX Design | [🎬](#) |
 ---
 
