@@ -19,9 +19,9 @@
 | 5 | Weather App |Application with Real-Time Weather Data | [🔗](https://github.com/anvarimajd/Weather-App) | React Native, Expo, API | [🎬](https://mega.nz/embed/Dg5HyTST#a2L4G9F00AvPYLYuhyZrbxwnPvoL92c0xEX968h4SlM) |
 | 6 | Binary Game | Interactive Binary Number Learning Game | [🔗](https://github.com/anvarimajd/Binery_Game) | React Native, Expo, Game Logic | [🎬](#) |
 | 7 | Restaurant App | Restaurant Menu and Food Ordering | [🔗](https://github.com/anvarimajd/Restaurant-App) | React Native, Expo, UI Design | [🎬](#) |
-| 8 | Hospital Network | Cisco Packet Tracer Hospital Network Simulation Project | [🔗](#) | Cisco Packet Tracer, VLAN, Routing, OSPF | [🎬](#) |
-| 9 | Link Page | Modern Personal Links Landing Page Website | [🔗](https://github.com/USERNAME/Link-Page) | HTML, CSS, JavaScript | [🎬](#) |
-| 10 | ChatHub UI | Modern Chat Application Interface Design | [🔗](https://github.com/USERNAME/ChatHub-UI) | React Native, UI/UX Design | [🎬](#) |
+| 8 | Shop Beginner | Cisco Packet Tracer Hospital Network Simulation Project | [🔗](#) | Cisco Packet Tracer, VLAN, Routing, OSPF | [🎬](#) |
+| 9 | Shop Intermediate | Modern Personal Links Landing Page Website | [🔗](https://github.com/USERNAME/Link-Page) | HTML, CSS, JavaScript | [🎬](#) |
+| 10 | Shop Advanced | Modern Chat Application Interface Design | [🔗](https://github.com/USERNAME/ChatHub-UI) | React Native, UI/UX Design | [🎬](#) |
 ---
 
 ## 🛠 Technologies
