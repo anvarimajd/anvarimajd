@@ -11,7 +11,7 @@
 ## 📂 Projects
 
 | # | Project | Description | GitHub | Technologies | Video |
-|---|------------|---------|------|--------------|------|
+|---|-------------|---------|------|--------------|------|
 | 1 | Dashboard | Modern Dashboard with Flexbox | [🔗](https://github.com/USERNAME/File-Upload-UI) |  React Native, Expo | [🎬](#) |
 | 2 | BMI App | Body Mass Index Calculator Mobile Application | [🔗](https://github.com/anvarimajd/BMI-Calculator) | React Native, Expo | [🎬](https://mega.nz/embed/HswxiJrb#5XXhaTN6Owy_dwxfPE9q88wZ7gt5kpvyNJFcauHf-zM) |
 | 3 | Music Player | Modern Music Player Mobile Application | [🔗](https://github.com/anvarimajd/Music-Player) | React Native, Expo | [🎬](https://mega.nz/embed/jgYHXa6Y#Fl5s4GE6JfA-ANHVaMN9NIFwRfEmJDOeF66wisnT7Mw) |
