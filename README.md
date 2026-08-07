@@ -19,9 +19,9 @@
 | 5 | Crypto App | Cryptocurrency Price Tracking Mobile Application | [🔗](https://github.com/anvarimajd/Crypto_App) | React Native, Expo, API Integration |
 | 6 | Weather App | Real-Time Weather Information Application | [🔗](https://github.com/anvarimajd/Weather-App) | React Native, Expo, REST API |
 | 7 | Food App | Restaurant Menu and Food Ordering Application | [🔗](https://github.com/anvarimajd/Restaurant-App) | React Native, Expo, UI Design |
-| 8 | Shop Beginner | Basic Network Design for Shopping Company | [🔗](#) | Cisco Packet Tracer, VLAN, Routing |
-| 9 | Shop Intermediate | Advanced Shopping Website Interface | [🔗](#) | HTML, CSS, JavaScript, UI Design |
-| 10 | Shop Advanced | Modern E-Commerce Full Stack Application | [🔗](#) | React Native, Expo, Node.js, Express, MySQL |
+| 8 | Shop Beginner | Basic Network Design for Shopping Company | [🔗](https://github.com/anvarimajd/Basic_Shop) | Cisco Packet Tracer, VLAN, Routing |
+| 9 | Shop Intermediate | Advanced Shopping Website Interface | [🔗](https://github.com/anvarimajd/Intermediate_shop) | HTML, CSS, JavaScript, UI Design |
+| 10 | Shop Advanced | Modern E-Commerce Full Stack Application | [🔗](https://github.com/anvarimajd/Hiperano) | React Native, Expo, Node.js, Express, MySQL |
 
 ---
 
